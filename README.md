@@ -11,7 +11,6 @@ The program performs four major tasks:
 3. Decrypts the ciphertext.
 4. Performs a classical brute-force period-finding attack to recover the original prime factors.
 
-> **Note:** This project is for educational purposes only. It uses very small prime numbers so that the classical attack can finish within a reasonable amount of time.
 
 ---
 
